@@ -13,7 +13,7 @@ variable "devops_trainer" {
 variable "content_map" {
   type=map
   default = {
-    "content1" = "This value coming from content1"
+    "content1" = "This value coming from content11"
     "content2" = "This value coming from content2"
   }
 }
